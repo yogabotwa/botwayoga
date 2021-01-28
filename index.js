@@ -13,11 +13,11 @@ const tambahan = require("./lib/tambahan.js")
 const donasi = require("./lib/donasi.js");
 const info = require("./lib/info.js");
 /////////////////
-const BotName = 'NAMA BOTMU'; 
-const instagram = 'LINK INSTAGRAMU'; 
+const BotName = 'YOGA BOT TEAM'; 
+const instagram = 'https://www.instagram.com/evos.yoga12/'; 
 const telegram = 'LINK TELEMU'; 
 const kapanbotaktif = 'KETIKA HANYA DIAKTIFKAN'; 
-const youtube = 'LINK YTMU';
+const youtube = 'https://youtube.com/channel/UCjBLhnQfZM5gPNouJXaP-eQ';
 //const grupch1 = 'belum ada grup'; 
 //const grupch2 = 'belum ada grup' ; 
 const
