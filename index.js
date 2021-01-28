@@ -13,7 +13,7 @@ const tambahan = require("./lib/tambahan.js")
 const donasi = require("./lib/donasi.js");
 const info = require("./lib/info.js");
 /////////////////
-const BotName = 'YŐĞÂ BŐŤ'; 
+const BotName = 'YOGA BOT'; 
 const instagram = 'https://www.instagram.com/evos.yoga12/'; 
 const telegram = 'LINK TELEMU'; 
 const kapanbotaktif = 'MULAI DARI JAM 00.00-22.00'; 
